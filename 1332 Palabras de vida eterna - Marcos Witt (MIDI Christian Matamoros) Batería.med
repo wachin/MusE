@@ -18,9 +18,15 @@
     <syncRecTempoValQuant>1</syncRecTempoValQuant>
     <extSync>0</extSync>
     <bigtimeVisible>0</bigtimeVisible>
+<<<<<<< HEAD
     <transportVisible>0</transportVisible>
     <geometryMain x="0" y="0" w="1368" h="714"></geometryMain>
     <geometryTransport x="684" y="104" w="100" h="30"></geometryTransport>
+=======
+    <transportVisible>1</transportVisible>
+    <geometryMain x="0" y="0" w="1360" h="749"></geometryMain>
+    <geometryTransport x="750" y="391" w="662" h="100"></geometryTransport>
+>>>>>>> refs/remotes/origin/main
     <arrangerVisible>1</arrangerVisible>
     <markerVisible>0</markerVisible>
     <mixer1Visible>0</mixer1Visible>
@@ -95,6 +101,7 @@
       <rcPlay>29</rcPlay>
       <rcSteprec>36</rcSteprec>
       <mididevice>
+<<<<<<< HEAD
         <name>jack-midi-0</name>
         <type>1</type>
         <openFlags>3</openFlags>
@@ -130,6 +137,14 @@
       <midiport idx="0">
         <defaultInChans>1</defaultInChans>
         <name>jack-midi-0</name>
+=======
+        <name>Midi Through Port-0</name>
+        <openFlags>0</openFlags>
+        </mididevice>
+      <midiport idx="0">
+        <defaultInChans>1</defaultInChans>
+        <name>Midi Through Port-0</name>
+>>>>>>> refs/remotes/origin/main
         <channel idx="0">
           <controller id="7">
             <val>100</val>
@@ -137,12 +152,15 @@
           <controller id="10">
             <val>64</val>
             </controller>
+<<<<<<< HEAD
           <controller id="91">
             <val>60</val>
             </controller>
           <controller id="93">
             <val>0</val>
             </controller>
+=======
+>>>>>>> refs/remotes/origin/main
           <controller id="262145">
             <val>16776960</val>
             </controller>
@@ -166,6 +184,7 @@
             <val>64</val>
             </controller>
           <controller id="92">
+<<<<<<< HEAD
             <val>127</val>
             </controller>
           <controller id="93">
@@ -176,6 +195,10 @@
             </controller>
           <controller id="95">
             <val>80</val>
+=======
+            </controller>
+          <controller id="95">
+>>>>>>> refs/remotes/origin/main
             </controller>
           <controller id="262145">
             <val>16776978</val>
@@ -217,6 +240,7 @@
         </midiport>
       <midiport idx="1">
         <defaultInChans>0</defaultInChans>
+<<<<<<< HEAD
         <name>jack-midi-1</name>
         </midiport>
       <midiport idx="2">
@@ -234,6 +258,20 @@
       <midiport idx="5">
         <defaultInChans>0</defaultInChans>
         <name>jack-midi-5</name>
+=======
+        </midiport>
+      <midiport idx="2">
+        <defaultInChans>0</defaultInChans>
+        </midiport>
+      <midiport idx="3">
+        <defaultInChans>0</defaultInChans>
+        </midiport>
+      <midiport idx="4">
+        <defaultInChans>0</defaultInChans>
+        </midiport>
+      <midiport idx="5">
+        <defaultInChans>0</defaultInChans>
+>>>>>>> refs/remotes/origin/main
         </midiport>
       <midiport idx="6">
         <defaultInChans>0</defaultInChans>
@@ -863,9 +901,15 @@
         <amount>0</amount>
         </move>
       <transpose>
+<<<<<<< HEAD
         <range>256</range>
         <parts>8192</parts>
         <amount>3</amount>
+=======
+        <range>512</range>
+        <parts>8192</parts>
+        <amount>0</amount>
+>>>>>>> refs/remotes/origin/main
         </transpose>
       <crescendo>
         <range>1024</range>
@@ -922,7 +966,11 @@
     <newdrumtrack>
       <name>Percuci�n</name>
       <record>0</record>
+<<<<<<< HEAD
       <mute>0</mute>
+=======
+      <mute>1</mute>
+>>>>>>> refs/remotes/origin/main
       <solo>0</solo>
       <off>0</off>
       <channels>0</channels>
@@ -2545,6 +2593,7 @@
         <ordering_tied>1</ordering_tied>
         </our_drum_settings>
       </newdrumtrack>
+<<<<<<< HEAD
     <Route>
       <source type="1" name="a2j:Midi Through [14] (capture): Midi Through Port-0"/>
       <dest devtype="1" name="jack-midi-0"/>
@@ -2577,6 +2626,8 @@
       <source type="1" name="mscore:mscore-midi-1"/>
       <dest devtype="1" name="jack-midi-5"/>
       </Route>
+=======
+>>>>>>> refs/remotes/origin/main
     <tempolist fix="500000">
       <tempo at="21474837">
         <tick>0</tick>
@@ -2773,8 +2824,13 @@
         <is_subwin>1</is_subwin>
         <x>0</x>
         <y>0</y>
+<<<<<<< HEAD
         <width>1368</width>
         <height>555</height>
+=======
+        <width>1360</width>
+        <height>590</height>
+>>>>>>> refs/remotes/origin/main
         <wsMaximized>1</wsMaximized>
         <wsActive>1</wsActive>
         <shares_menu>1</shares_menu>
@@ -2784,7 +2840,11 @@
       <arranger>
         <raster>0</raster>
         <info>1</info>
+<<<<<<< HEAD
         <split>50 250 1060 </split>
+=======
+        <split>50 250 1052 </split>
+>>>>>>> refs/remotes/origin/main
         <xmag>388</xmag>
         <xpos>0</xpos>
         <ypos>0</ypos>
