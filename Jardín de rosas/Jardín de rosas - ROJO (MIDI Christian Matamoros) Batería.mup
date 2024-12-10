@@ -1,0 +1,250 @@
+score
+	staffs=2
+	time=4/4
+staff 1
+	clef=bass
+	key=3#minor
+staff 2
+	clef=treble
+	key=0#major
+
+music
+	1: 1r;	2: 1r;bar
+	1: 1r;	2: 1r;bar
+	1: 1r;	2: 1r;bar
+	1: 1r;	2: 1r;bar
+	1: 1r;	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2a3; 16r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2a3; 16r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2a3; 16r;
+	2: 1r;bar
+	1: 2r; 4r; 16e2; 16r; 8r;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16cn2a#2f3 bm; 16f3 ebm; 16b2; 16r; 16a2; 16r; 16cn2f3a3; 16r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2a3; 16r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2a3; 16r;
+	2: 1r;bar
+	1: 2r; 4r; 16e2; 16r; 8r;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16cn2a#2f3 bm; 16f3 ebm; 16b2; 16r; 16a2; 16r; 16cn2f3a3; 16r;
+	2: 1r;bar
+	1: 1r;
+	2: 1r;bar
+	1: 16cn2c2a3; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r;
+	2: 1r;bar
+	1: 16cn2c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16f2; 16r; 16c2f2; 16r; 16cn2; 16r;
+	2: 1r;bar
+	1: 16e2a#2; 16r; 16b2; 16r; 16cn2; 16r; 16e2a#2; 16r; 16a2; 16r; 16r; 16cn2; 16e2a#2; 16r; 16a2 bm; 16gn2 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2f3gn3a3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16a#2f3 bm; 16f3; 16cn2f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16f3 ebm;
+	2: 1r;bar
+	1: 16cn2a#2f3 bm; 16f3; 16f3; 16f3 ebm; 16e2a#2f3 bm; 16f3; 16f3; 16cn2f3 ebm; 16cn2a#2f3 bm; 16f3; 16b2f3; 16f3 ebm; 16a2f3 bm; 16f3 ebm; 16cn2f3a3; 16r;
+	2: 1r;bar
+
+

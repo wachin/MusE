@@ -121,7 +121,7 @@
         <name>jack-midi-0</name>
         <channel idx="0">
           <controller id="7">
-            <val>51</val>
+            <val>64</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -185,12 +185,12 @@
             <val>16776989</val>
             </controller>
           <controller id="262148">
-            <val>3</val>
+            <val>1</val>
             </controller>
           </channel>
         <channel idx="9">
           <controller id="7">
-            <val>39</val>
+            <val>67</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -204,7 +204,7 @@
           </channel>
         <channel idx="10">
           <controller id="7">
-            <val>64</val>
+            <val>127</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -215,7 +215,7 @@
           </channel>
         <channel idx="11">
           <controller id="7">
-            <val>66</val>
+            <val>127</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -955,7 +955,7 @@
   <song>
     <info></info>
     <showinfo>1</showinfo>
-    <cpos>47392</cpos>
+    <cpos>32256</cpos>
     <rpos>0</rpos>
     <lpos>0</lpos>
     <master>1</master>
@@ -7508,8 +7508,16 @@
       <dest type="1" name="alsa_pcm:FLUID-Synth-(12537)/midi_capture_1"/>
       </Route>
     <Route>
+      <source devtype="1" name="jack-midi-2"/>
+      <dest type="1" name="alsa_pcm:FLUID-Synth-(3740)/midi_capture_1"/>
+      </Route>
+    <Route>
       <source devtype="1" name="jack-midi-3"/>
       <dest type="1" name="a2j:FLUID Synth (12537) [131] (playback): Synth input port (12537:0)"/>
+      </Route>
+    <Route>
+      <source devtype="1" name="jack-midi-3"/>
+      <dest type="1" name="a2j:FLUID Synth (3740) [131] (playback): Synth input port (3740:0)"/>
       </Route>
     <tempolist fix="500000">
       <tempo at="21474837">
