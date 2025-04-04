@@ -19,9 +19,8 @@
     <extSync>0</extSync>
     <bigtimeVisible>0</bigtimeVisible>
     <transportVisible>0</transportVisible>
-    <geometryMain x="0" y="0" w="1368" h="714"></geometryMain>
+    <geometryMain x="0" y="0" w="1368" h="717"></geometryMain>
     <geometryTransport x="684" y="104" w="100" h="30"></geometryTransport>
-    <arrangerVisible>1</arrangerVisible>
     <markerVisible>0</markerVisible>
     <mixer1Visible>0</mixer1Visible>
     <mixer2Visible>0</mixer2Visible>
@@ -94,6 +93,15 @@
       <rcGotoLeft>33</rcGotoLeft>
       <rcPlay>29</rcPlay>
       <rcSteprec>36</rcSteprec>
+      <rcForward>26</rcForward>
+      <rcRewind>24</rcRewind>
+      <rcEnableCC>0</rcEnableCC>
+      <rcStopCC>114</rcStopCC>
+      <rcRecordCC>117</rcRecordCC>
+      <rcGotoLeftCC>111</rcGotoLeftCC>
+      <rcPlayCC>115</rcPlayCC>
+      <rcForwardCC>113</rcForwardCC>
+      <rcRewindCC>112</rcRewindCC>
       <mididevice>
         <name>jack-midi-0</name>
         <type>1</type>
@@ -121,13 +129,13 @@
         <name>jack-midi-0</name>
         <channel idx="2">
           <controller id="7">
-            <val>100</val>
+            <val>34</val>
             </controller>
           <controller id="10">
             <val>64</val>
             </controller>
           <controller id="64">
-            <val>0</val>
+            <val>127</val>
             </controller>
           <controller id="262145">
             <val>16776965</val>
@@ -138,7 +146,7 @@
           </channel>
         <channel idx="3">
           <controller id="7">
-            <val>53</val>
+            <val>36</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -876,9 +884,9 @@
         <amount>0</amount>
         </move>
       <transpose>
-        <range>256</range>
+        <range>512</range>
         <parts>8192</parts>
-        <amount>3</amount>
+        <amount>0</amount>
         </transpose>
       <crescendo>
         <range>1024</range>
@@ -916,7 +924,7 @@
   <song>
     <info></info>
     <showinfo>1</showinfo>
-    <cpos>0</cpos>
+    <cpos>35355</cpos>
     <rpos>0</rpos>
     <lpos>0</lpos>
     <master>1</master>
@@ -931,7 +939,8 @@
     <quantize>0</quantize>
     <len>173568</len>
     <follow>1</follow>
-    <sampleRate>44100</sampleRate>
+    <midiDivision>384</midiDivision>
+    <sampleRate>48000</sampleRate>
     <newdrumtrack>
       <name>Bateria</name>
       <record>0</record>
@@ -2314,6 +2323,8 @@
       <height>20</height>
       <locked>0</locked>
       <recMonitor>0</recMonitor>
+      <selected>1</selected>
+      <selectionOrder>0</selectionOrder>
       <device>0</device>
       <channel>2</channel>
       <locked>0</locked>
@@ -2342,46 +2353,90 @@
         </part>
       <part>
         <name></name>
-        <viewState xscroll="34175" yscroll="390" xscale="-10" yscale="2">
+        <viewState xscroll="32245" yscroll="390" xscale="-10" yscale="2">
           <ctrlViewState num="7" />
           </viewState>
         <poslen tick="32256" len="12288" />
-        <selected>0</selected>
+        <selected>1</selected>
         <color>0</color>
         <event tick="32256" type="1" a="64" b="127" />
+        <event tick="32256" type="1" a="7" b="30" />
         <event tick="32256" len="192" a="47" b="100" />
+        <event tick="32352" type="1" a="7" b="30" />
+        <event tick="32448" type="1" a="7" b="30" />
         <event tick="32448" len="192" a="54" b="100" />
+        <event tick="32544" type="1" a="7" b="30" />
+        <event tick="32640" type="1" a="7" b="30" />
         <event tick="32640" len="192" a="62" b="100" />
         <event tick="32640" len="192" a="59" b="100" />
+        <event tick="32736" type="1" a="7" b="30" />
+        <event tick="32832" type="1" a="7" b="31" />
         <event tick="32832" len="192" a="59" b="100" />
         <event tick="32832" len="192" a="66" b="100" />
+        <event tick="32928" type="1" a="7" b="31" />
+        <event tick="33024" type="1" a="7" b="31" />
+        <event tick="33120" type="1" a="7" b="34" />
+        <event tick="33216" type="1" a="7" b="34" />
         <event tick="33216" len="192" a="47" b="100" />
+        <event tick="33312" type="1" a="7" b="34" />
+        <event tick="33408" type="1" a="7" b="34" />
         <event tick="33408" len="192" a="62" b="100" />
         <event tick="33408" len="192" a="66" b="100" />
+        <event tick="33504" type="1" a="7" b="34" />
+        <event tick="33600" type="1" a="7" b="34" />
         <event tick="33696" type="1" a="64" />
+        <event tick="33696" type="1" a="7" b="34" />
         <event tick="33752" len="192" a="43" b="100" />
         <event tick="33792" type="1" a="64" b="127" />
-        <event tick="33984" type="1" a="7" b="56" />
+        <event tick="33792" type="1" a="7" b="34" />
+        <event tick="33888" type="1" a="7" b="34" />
+        <event tick="33984" type="1" a="7" b="34" />
         <event tick="33984" len="192" a="50" b="100" />
-        <event tick="34080" type="1" a="7" b="31" />
-        <event tick="34176" type="1" a="7" b="30" />
+        <event tick="34080" type="1" a="7" b="34" />
+        <event tick="34176" type="1" a="7" b="34" />
         <event tick="34176" len="192" a="62" b="100" />
+        <event tick="34272" type="1" a="7" b="34" />
+        <event tick="34368" type="1" a="7" b="34" />
         <event tick="34368" len="192" a="62" b="100" />
         <event tick="34368" len="192" a="67" b="100" />
+        <event tick="34464" type="1" a="7" b="34" />
+        <event tick="34560" type="1" a="7" b="34" />
         <event tick="34560" len="192" a="62" b="100" />
+        <event tick="34656" type="1" a="7" b="34" />
+        <event tick="34752" type="1" a="7" b="34" />
         <event tick="34752" len="192" a="57" b="100" />
+        <event tick="34848" type="1" a="7" b="34" />
+        <event tick="34944" type="1" a="7" b="34" />
         <event tick="34944" len="192" a="67" b="100" />
         <event tick="34944" len="192" a="62" b="100" />
+        <event tick="35040" type="1" a="7" b="34" />
+        <event tick="35136" type="1" a="7" b="34" />
         <event tick="35232" type="1" a="64" />
+        <event tick="35232" type="1" a="7" b="34" />
         <event tick="35288" type="1" a="64" b="127" />
         <event tick="35288" len="192" a="50" b="100" />
+        <event tick="35328" type="1" a="7" b="34" />
+        <event tick="35424" type="1" a="7" b="34" />
+        <event tick="35520" type="1" a="7" b="34" />
         <event tick="35520" len="192" a="62" b="100" />
+        <event tick="35616" type="1" a="7" b="34" />
+        <event tick="35712" type="1" a="7" b="34" />
         <event tick="35712" len="192" a="64" b="100" />
+        <event tick="35808" type="1" a="7" b="34" />
         <event tick="35864" len="192" a="57" b="100" />
+        <event tick="35904" type="1" a="7" b="34" />
+        <event tick="36000" type="1" a="7" b="34" />
+        <event tick="36096" type="1" a="7" b="34" />
         <event tick="36096" len="192" a="66" b="100" />
+        <event tick="36192" type="1" a="7" b="34" />
+        <event tick="36288" type="1" a="7" b="30" />
         <event tick="36288" len="192" a="57" b="100" />
+        <event tick="36384" type="1" a="7" b="32" />
+        <event tick="36480" type="1" a="7" b="32" />
         <event tick="36480" len="192" a="62" b="100" />
         <event tick="36480" len="192" a="66" b="100" />
+        <event tick="36576" type="1" a="7" b="30" />
+        <event tick="36672" type="1" a="7" b="31" />
         <event tick="36768" type="1" a="64" />
         <event tick="36824" type="1" a="64" b="127" />
         <event tick="36824" len="192" a="45" b="100" />
@@ -5012,8 +5067,6 @@
       <height>20</height>
       <locked>0</locked>
       <recMonitor>0</recMonitor>
-      <selected>1</selected>
-      <selectionOrder>0</selectionOrder>
       <device>0</device>
       <channel>6</channel>
       <locked>0</locked>
@@ -6598,7 +6651,7 @@
       <clef>0</clef>
       <part>
         <name></name>
-        <viewState xscroll="1535" yscroll="390" xscale="-10" yscale="2">
+        <viewState xscroll="29585" yscroll="615" xscale="-10" yscale="2">
           <ctrlViewState num="7" />
           </viewState>
         <poslen tick="0" len="173568" />
@@ -7233,6 +7286,7 @@
     <key at="21474837">
       <tick>0</tick>
       <val>1</val>
+      <minor>0</minor>
       </key>
     </keylist>
     <drummap>
@@ -8143,17 +8197,16 @@
         <x>0</x>
         <y>0</y>
         <width>1368</width>
-        <height>555</height>
+        <height>474</height>
         <wsMaximized>1</wsMaximized>
         <wsActive>1</wsActive>
-        <shares_menu>1</shares_menu>
         <toolbars></toolbars>
         </topwin>
       <tool>1</tool>
       <arranger>
         <raster>0</raster>
         <info>1</info>
-        <split>53 250 1057 </split>
+        <split>63 250 1047 </split>
         <xmag>182</xmag>
         <xpos>0</xpos>
         <ypos>0</ypos>
