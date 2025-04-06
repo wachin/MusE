@@ -129,7 +129,7 @@
         <name>jack-midi-0</name>
         <channel idx="2">
           <controller id="7">
-            <val>34</val>
+            <val>31</val>
             </controller>
           <controller id="10">
             <val>64</val>
@@ -924,7 +924,7 @@
   <song>
     <info></info>
     <showinfo>1</showinfo>
-    <cpos>35355</cpos>
+    <cpos>38879</cpos>
     <rpos>0</rpos>
     <lpos>0</lpos>
     <master>1</master>
@@ -963,7 +963,7 @@
       <clef>0</clef>
       <part>
         <name>ERESPODERO</name>
-        <viewState xscroll="-5" yscroll="0" xscale="-10" yscale="1">
+        <viewState xscroll="33785" yscroll="0" xscale="-10" yscale="1">
           <ctrlViewState num="7" />
           </viewState>
         <poslen tick="0" len="172032" />
@@ -2323,8 +2323,6 @@
       <height>20</height>
       <locked>0</locked>
       <recMonitor>0</recMonitor>
-      <selected>1</selected>
-      <selectionOrder>0</selectionOrder>
       <device>0</device>
       <channel>2</channel>
       <locked>0</locked>
@@ -2357,7 +2355,7 @@
           <ctrlViewState num="7" />
           </viewState>
         <poslen tick="32256" len="12288" />
-        <selected>1</selected>
+        <selected>0</selected>
         <color>0</color>
         <event tick="32256" type="1" a="64" b="127" />
         <event tick="32256" type="1" a="7" b="30" />
@@ -6639,6 +6637,8 @@
       <height>20</height>
       <locked>0</locked>
       <recMonitor>0</recMonitor>
+      <selected>1</selected>
+      <selectionOrder>0</selectionOrder>
       <device>0</device>
       <channel>7</channel>
       <locked>0</locked>
@@ -6651,11 +6651,11 @@
       <clef>0</clef>
       <part>
         <name></name>
-        <viewState xscroll="29585" yscroll="615" xscale="-10" yscale="2">
+        <viewState xscroll="29175" yscroll="615" xscale="-10" yscale="2">
           <ctrlViewState num="7" />
           </viewState>
         <poslen tick="0" len="173568" />
-        <selected>0</selected>
+        <selected>1</selected>
         <color>0</color>
         <event tick="0" type="1" a="262145" b="16776993" />
         <event tick="0" type="1" a="7" b="127" />
@@ -8196,21 +8196,50 @@
         <is_subwin>1</is_subwin>
         <x>0</x>
         <y>0</y>
-        <width>1368</width>
-        <height>474</height>
-        <wsMaximized>1</wsMaximized>
-        <wsActive>1</wsActive>
+        <width>640</width>
+        <height>480</height>
         <toolbars></toolbars>
         </topwin>
       <tool>1</tool>
       <arranger>
         <raster>0</raster>
         <info>1</info>
-        <split>63 250 1047 </split>
+        <split>63 250 311 </split>
         <xmag>182</xmag>
         <xpos>0</xpos>
         <ypos>0</ypos>
         </arranger>
       </arrangerview>
+    <part>6:0</part>
+    <pianoroll>
+      <midieditor>
+        <topwin>
+          <is_subwin>1</is_subwin>
+          <x>0</x>
+          <y>0</y>
+          <width>1368</width>
+          <height>474</height>
+          <wsMaximized>1</wsMaximized>
+          <wsActive>1</wsActive>
+          <toolbars></toolbars>
+          </topwin>
+        <raster>96</raster>
+        </midieditor>
+      <splitter>359 96 </splitter>
+      <hsplitter>63 1301 </hsplitter>
+      <ctrledit>
+        <ctrlnum>7</ctrlnum>
+        <perNoteVeloMode>0</perNoteVeloMode>
+        </ctrledit>
+      <steprec>0</steprec>
+      <midiin>0</midiin>
+      <tool>1</tool>
+      <playEvents>1</playEvents>
+      <playEventsMode>0</playEventsMode>
+      <xmag>265</xmag>
+      <xpos>2918</xpos>
+      <ymag>2016</ymag>
+      <ypos>1230</ypos>
+      </pianoroll>
     </toplevels>
   </muse>
